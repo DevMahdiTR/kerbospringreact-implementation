@@ -1,0 +1,22 @@
+server:
+  port: 8082
+
+spring:
+  application:
+    name: TGS
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/authentication
+    username: postgres
+    password: root
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+    properties:
+      hibernate:
+        format_sql: false
+      database: postgresql
+      database-platform: org.hibernate.dialect.PostgreSQLDialect
+    open-in-view: false
