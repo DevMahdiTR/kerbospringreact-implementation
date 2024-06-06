@@ -72,8 +72,11 @@ The application simulates a Kerberos-based authentication system. Users can auth
 5. The React app uses the TGT to request service tickets from the Ticket Granting Server (TGS).
 6. The TGS issues service tickets which the app uses to access the dummy service.
 
-!(auth)(https://github.com/DevMahdiTR/kerbospringreact-implementation/blob/main/demo-images/kerberos%20verif.png)
-!(auth)(https://github.com/DevMahdiTR/kerbospringreact-implementation/blob/main/demo-images/kerberos%20connection.PNG)
+#### Images from the demo react
+![auth](https://github.com/DevMahdiTR/kerbospringreact-implementation/blob/main/demo-images/kerberos%20verif.png)
+![auth](https://github.com/DevMahdiTR/kerbospringreact-implementation/blob/main/demo-images/kerberos%20connection.PNG)
+
+
 ### Visual Aids
 1. Login Page:
 2. Authentication Flow Diagram:
