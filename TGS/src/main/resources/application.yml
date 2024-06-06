@@ -6,13 +6,13 @@ spring:
     name: TGS
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/authentication
-    username: postgres
-    password: root
+    url: jdbc:postgresql://localhost:5432/database-name
+    username: database-username
+    password: database-password
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
-      ddl-auto: update
+      ddl-auto: create-drop
     show-sql: false
     properties:
       hibernate:
