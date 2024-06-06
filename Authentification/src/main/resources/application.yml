@@ -5,8 +5,8 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username: learninge452@gmail.com
-    password: cudpeeulxrpjdgak
+    username: your-email
+    password: your-password
     properties:
       mail:
         smtp:
@@ -18,9 +18,9 @@ spring:
       max-request-size: 30MB
       max-file-size: 30MB
   datasource:
-    url: jdbc:postgresql://localhost:5432/authentication
-    username: postgres
-    password: root
+    url: jdbc:postgresql://localhost:5432/database-name
+    username: database-username
+    password: database-password
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
