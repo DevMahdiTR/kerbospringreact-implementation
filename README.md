@@ -69,7 +69,9 @@ The application simulates a Kerberos-based authentication system. Users can auth
    
 ### Visual Aids
 1. Login Page:
-2. Authentication Flow Diagram: 
+2. Authentication Flow Diagram:
+
+![Authentication](https://github.com/DevMahdiTR/kerbospringreact-implementation/blob/main/demo-images/1.jpeg)
 
 
 
