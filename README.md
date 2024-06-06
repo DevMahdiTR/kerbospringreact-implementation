@@ -37,7 +37,7 @@ The application simulates a Kerberos-based authentication system. Users can auth
    git clone "https://github.com/DevMahdiTR/kerbospringreact-implementation.git"
 2. Navigate to the project directory:
    ```bash
-    cd kerberos-spring-boot
+    cd kerbospringreact-implementation
 3. Build the project using Maven:
    ```bash
    mvn clean install
