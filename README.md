@@ -3,6 +3,12 @@
 ## Project's Title
 Kerberos Protocol Authentication with Spring Boot and React
 
+## Table of Contents
+1. [Project's Title](#kerberos-protocol-authentication-with-spring-boot)
+2. [Project Description](#project-description)
+3. [How to Install and Run the Project](#how-to-install-and-run-the-project)
+4. [How to Use the Project](#how-to-use-the-project)
+   
 ## Project Description
 This project is a comprehensive implementation of the Kerberos protocol for authentication, developed using Spring Boot for the backend and React for the frontend. It includes a custom-built Authentication Server (AS), Ticket Granting Server (TGS), and a dummy service to demonstrate the protocol. The React app serves as a test interface to verify the functionality of the authentication system.
 
@@ -18,11 +24,10 @@ The application simulates a Kerberos-based authentication system. Users can auth
 - **Challenges**: Implementing the Kerberos protocol from scratch, ensuring secure ticket exchanges, and managing session states.
 - **Future Features**: Enhancing security features, adding more services for authentication, and integrating with a real-world database.
 
-## Table of Contents
-1. [Project's Title](#kerberos-protocol-authentication-with-spring-boot)
-2. [Project Description](#project-description)
-3. [How to Install and Run the Project](#how-to-install-and-run-the-project)
-4. [How to Use the Project](#how-to-use-the-project)
+
+![Authentication](https://github.com/DevMahdiTR/kerbospringreact-implementation/blob/main/demo-images/1.jpeg)
+![Authentication](https://github.com/DevMahdiTR/kerbospringreact-implementation/blob/main/demo-images/2.jpeg)
+![Authentication](https://github.com/DevMahdiTR/kerbospringreact-implementation/blob/main/demo-images/3.jpeg)
 
 ## How to Install and Run the Project
 
@@ -71,7 +76,6 @@ The application simulates a Kerberos-based authentication system. Users can auth
 1. Login Page:
 2. Authentication Flow Diagram:
 
-![Authentication](https://github.com/DevMahdiTR/kerbospringreact-implementation/blob/main/demo-images/1.jpeg)
 
 
 
